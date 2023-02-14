@@ -1,6 +1,6 @@
 # ZipCode
 
-ZipCode. É um aplicativo de busca de endereço por CEP.
+É um aplicativo de busca de endereço por CEP.
 
 ### Tecnologias utilizadas
 biblioteca/framework: [Express](https://expressjs.com/pt-br/),
