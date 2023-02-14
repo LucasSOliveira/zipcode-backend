@@ -1,8 +1,8 @@
-# Sobre o backend-end e DB
+# ZipCode
 
 ViaCep. É um aplicativo de busca de endereço por CEP.
 
-## Tecnologias utilizadas
+### Tecnologias utilizadas
 biblioteca/framework: [Express](https://expressjs.com/pt-br/),
 Banco de Dados: [MySql](https://www.mysql.com/),
 Conteinerização: [Docker](https://www.docker.com/)
