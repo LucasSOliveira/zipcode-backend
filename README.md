@@ -11,7 +11,7 @@ E algumas libs.
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Node.js](https://nodejs.org/en/), gerenciadores de banco de dados, como o [Dbeaver](https://dbeaver.io/download/) ou [MySQL Workbench](https://www.mysql.com/products/workbench/)
+[Node.js](https://nodejs.org/en/), gerenciadores de banco de dados, como o [Dbeaver](https://dbeaver.io/download/) ou [MySQL Workbench](https://www.mysql.com/products/workbench/) e o [Docker](https://www.docker.com/) para subir o banco de dados;
 
 O projeto pode ser executado utilizando o NPM, porém caso prefira pode usar o [Yarn](https://yarnpkg.com/),
 
