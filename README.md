@@ -22,7 +22,7 @@ Após clone do projeto, abrir terminal na pasta raiz e executar:
 `yarn` ou `npm install`
 Para a instalação da pasta node_modules e suas dependências.
 
-Após instalado executar:
+Depois de instalado executar:
 `yarn dev` ou `yarn start`
 após isso:
 `docker-compose up -d`
