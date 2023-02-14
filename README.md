@@ -13,16 +13,16 @@ E algumas libs.
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Node.js](https://nodejs.org/en/), gerenciadores de banco de dados, como o [Dbeaver](https://dbeaver.io/download/) ou [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
-O projeto pode ser executado utilizando o NPM, porem caso prefira pode usar o [Yarn](https://yarnpkg.com/),
+O projeto pode ser executado utilizando o NPM, porém caso prefira pode usar o [Yarn](https://yarnpkg.com/),
 
 
 ### Como rodar o projeto?
 
-Apos clone do projeto, abrir terminal na pasta raiz e executar:
+Após clone do projeto, abrir terminal na pasta raiz e executar:
 `yarn` ou `npm install`
-Para a instalação da pasta node_modules e suas dependencias.
+Para a instalação da pasta node_modules e suas dependências.
 
-Pós instalado executar:
+Após instalado executar:
 `yarn dev` ou `yarn start`
 após isso:
 `docker-compose up -d`
@@ -31,10 +31,10 @@ para executar o projeto em modo DEV local;
 
 ### Como acessar e utilizar:
 
-O Backend fica disponível no: `localhost:8000`, tendo como rota unica o metodo get de busca dos dados do CEP. 
+O Backend fica disponível no: `localhost:8000`, tendo como rota única o método get de busca dos dados do CEP. 
 Exemplo:
 `http://localhost:8000/?cep=01001-000`
-O banco de dados fca disponível no: `localhost:3306`
+O banco de dados fica disponível no: `localhost:3306`
 
 ## Pode ser necessário:
 
