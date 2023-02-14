@@ -1,6 +1,6 @@
 # ZipCode
 
-ViaCep. É um aplicativo de busca de endereço por CEP.
+ZipCode. É um aplicativo de busca de endereço por CEP.
 
 ### Tecnologias utilizadas
 biblioteca/framework: [Express](https://expressjs.com/pt-br/),
